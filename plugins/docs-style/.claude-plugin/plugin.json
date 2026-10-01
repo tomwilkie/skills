@@ -1,0 +1,8 @@
+{
+  "name": "docs-style",
+  "description": "House style for project prose: Google's developer documentation style guide, adapted to British English",
+  "author": {
+    "name": "Tom Wilkie"
+  },
+  "repository": "https://github.com/tomwilkie/skills"
+}

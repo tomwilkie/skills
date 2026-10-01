@@ -1,0 +1,17 @@
+{
+  "name": "tomwilkie-skills",
+  "owner": {
+    "name": "Tom Wilkie"
+  },
+  "metadata": {
+    "description": "Claude Code skills shared across Tom Wilkie's projects"
+  },
+  "plugins": [
+    {
+      "name": "docs-style",
+      "source": "./plugins/docs-style",
+      "description": "House style for project prose: Google's developer documentation style guide, adapted to British English",
+      "category": "documentation"
+    }
+  ]
+}
