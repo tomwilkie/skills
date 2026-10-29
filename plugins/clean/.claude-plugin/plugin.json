@@ -1,0 +1,8 @@
+{
+  "name": "clean",
+  "description": "Tidy a git checkout after a session: remove worktrees and branches whose pull requests have merged, update the default branch, and report what is left outstanding",
+  "author": {
+    "name": "Tom Wilkie"
+  },
+  "repository": "https://github.com/tomwilkie/skills"
+}
