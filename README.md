@@ -6,6 +6,7 @@ shared across projects.
 | Plugin                             | What it does                                                                                            |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | [`docs-style`](plugins/docs-style) | House style for project prose: Google's developer documentation style guide, adapted to British English |
+| [`clean`](plugins/clean)           | `/clean` after a session: removes worktrees and branches whose PRs have merged, updates the default branch, and reports what is still outstanding |
 
 ## Install a plugin
 

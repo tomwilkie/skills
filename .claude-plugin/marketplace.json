@@ -12,6 +12,12 @@
       "source": "./plugins/docs-style",
       "description": "House style for project prose: Google's developer documentation style guide, adapted to British English",
       "category": "documentation"
+    },
+    {
+      "name": "clean",
+      "source": "./plugins/clean",
+      "description": "Tidy a git checkout after a session: remove worktrees and branches whose pull requests have merged, update the default branch, and report what is left outstanding",
+      "category": "productivity"
     }
   ]
 }
